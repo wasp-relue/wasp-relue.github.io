@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meetups on Notre-Dame de Paris</title>
+    <link>https://wasp-relue.github.io/bbb_files/tags/meetups/</link>
+    <description>Recent content in meetups on Notre-Dame de Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://wasp-relue.github.io/bbb_files/tags/meetups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BBB Meetup-26</title>
+      <link>https://wasp-relue.github.io/bbb_files/post/chapter-1/</link>
+      <pubDate>Sun, 26 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://wasp-relue.github.io/bbb_files/post/chapter-1/</guid>
+      <description>The first Meetup of 2020 and our 26th meetup in all, this one had a nice mixture of newbies and regulars. Amid cheesy chilli pops and coffee, much was discussed about the law, Indian authors and much fiction and non-fiction. We even had some people flit in and sit in randomly because they saw us discussing books. Another interesting observation was the reference to books discussed in earlier meetups. Bhaunri and Daura for example, were books that were reads from people in a previous meetup and someone else had started reading it this time :) This sort of recommendation-culture is something we&amp;rsquo;ve strived to build and it&amp;rsquo;s happening!</description>
+    </item>
+    
+  </channel>
+</rss>
